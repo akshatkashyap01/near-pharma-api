@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Apollo Pharmacy - Satellite",
+    "address": "Iscon Mega Mall, Satellite Road, Ahmedabad",
+    "latitude": 23.0258,
+    "longitude": 72.5698,
+    "phone": "+91 79 4040 1234",
+    "chain": "Apollo",
+    "pincode": "380015",
+    "is24x7": true
+  },
+  {
+    "name": "MedPlus Pharmacy - Vastrapur",
+    "address": "Shivalik Plaza, Vastrapur Circle, Ahmedabad",
+    "latitude": 23.0395,
+    "longitude": 72.5659,
+    "phone": "+91 79 2630 5678",
+    "chain": "MedPlus",
+    "pincode": "380015",
+    "is24x7": false
+  }
+]
