@@ -1,21 +1,21 @@
-# NearPharma 🏥
+# NearPharma 
 
 Spring Boot Pharmacy Discovery API with SQLite Integration
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 **NearPharma** is a RESTful Spring Boot API for managing and discovering pharmacies. It supports:
 
-✅ Full CRUD operations on pharmacy records  
-✅ SQLite embedded database (lightweight, no manual DB setup)  
-✅ Auto-seeding of pharmacy dataset on first startup  
-✅ Clean Java 17 and Spring Boot 3.5.x implementation  
+Full CRUD operations on pharmacy records  
+SQLite embedded database (lightweight, no manual DB setup)  
+Auto-seeding of pharmacy dataset on first startup  
+Clean Java 17 and Spring Boot 3.5.x implementation  
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Java 17  
 - Spring Boot 3.5.x  
@@ -26,7 +26,7 @@ Spring Boot Pharmacy Discovery API with SQLite Integration
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 Make sure you have:
 
@@ -37,7 +37,7 @@ Make sure you have:
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ```bash
 # Clone the repository
